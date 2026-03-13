@@ -1,11 +1,12 @@
 {
   "server": {
     "name": "Lands",
+    "name-bold": "LANDS",
     "color": "§6§l",
 
     "symbols": {
       "arrow": "»",
-      "arrow_alt": "‣",
+      "arrow-alt": "‣",
       "square": "▪"
     },
 
@@ -30,9 +31,20 @@
 
     "links": {
       "store": "www.landsmc.com/loja",
-      "discord": "discord.gg/landsmc",
+      "discord": "link_url_permanente",
       "tiktok": "tiktok.com/landsmc"
     },
+
+    "motd": [
+      "§dgithub.com/NesquikDeveloper/Lands"
+    ],
+
+    "custom-messages": [
+      "§eQuer participar de nossa equipe? Faça sua aplicação em §blandsmc.com/equipe",
+      "§eAltere suas preferências usando §9/prefs§e!",
+      "§eSiga-nos nas redes sociais §blandsmc.com/partner",
+      "§eAdquira VIPs, tags e pacotes em §6www.landsmc.com/loja"
+    ],
 
     "tab": {
       "header": [
