@@ -1,0 +1,1 @@
+# Agora essa e uma desgraça de mexer, se entender você que se vire. Mas talvez eu faça um site pra deixar tudo certinho pra você só baixar do site com as preset da forma visual, tipo. Ver como ficaria no jogo sem precisar reiniciar o servidor.
