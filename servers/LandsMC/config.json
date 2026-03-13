@@ -1,0 +1,49 @@
+{
+  "server": {
+    "name": "Lands",
+    "color": "§6§l",
+
+    "symbols": {
+      "arrow": "»",
+      "arrow_alt": "‣",
+      "square": "▪"
+    },
+
+    "address": {
+      "ipv4": "127.0.0.1",
+      "port-primary": 25565,
+      "port-important": [
+        25566,
+        25567,
+        25568,
+        25569,
+        25570,
+        25571,
+        25572,
+        25573,
+        25574
+      ]
+    },
+
+    "domain": "landsmc.com",
+    "website": "www.landsmc.com",
+
+    "links": {
+      "store": "www.landsmc.com/loja",
+      "discord": "discord.gg/landsmc",
+      "tiktok": "tiktok.com/landsmc"
+    },
+
+    "tab": {
+      "header": [
+        "",
+        "§6§lLANDS"
+      ],
+      "footer": [
+        "",
+        "§eWebsite: §blandsmc.com",
+        "§eLoja: §bwww.landsmc.com/loja"
+      ]
+    }
+  }
+}
