@@ -4,6 +4,13 @@
     "name-bold": "LANDS",
     "color": "§6§l",
 
+    "description": "Servidor de Minecraft focado em diversão, comunidade e experiências únicas.",
+
+    "branding": {
+      "logo": "https://fotos.com/logo.png",
+      "background": "https://fotos.com/background.png"
+    },
+
     "symbols": {
       "arrow": "»",
       "arrow-alt": "‣",
